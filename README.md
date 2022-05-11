@@ -1,1 +1,2 @@
-# web_spider_test
+记录我学习python爬虫的一些代码
+读崔庆才《python爬虫网络开发实战》
