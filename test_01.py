@@ -14,8 +14,6 @@ BASE_URL = 'https://ssr1.scrape.center'  # 定义根链接
 TOTAL_PAGE = 10  # 定义最大爬取页数
 
 # 定义爬取方法
-
-
 def scrape_page(url):
     logging.info('scraping %s...', url)
     try:
